@@ -3,7 +3,7 @@
 
 ## Connect with me  
 <a href="https://t.me/Lilsus001" target="_blank">
-<img src="https://img.shields.io/badge/ZoV_SLON-black?style=for-the-badge&logo=Telegram&logoColor=white"/
+<img src="https://img.shields.io/badge/Lilsuka001-black?style=for-the-badge&logo=Telegram&logoColor=white"/
 </a> 
 
 ###
